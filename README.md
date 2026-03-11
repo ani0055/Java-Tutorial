@@ -1,1 +1,2 @@
-This is My Java practice tutorial where I practice Java.
+This is My Java practice repo
+
